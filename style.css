@@ -42,7 +42,7 @@ body{
     margin-top: 20px;
 }
 #progress{
-    width: 80%;
+    width: 2%;
     height: 10px;
     background-color: var(--teal);
     border-radius: 10px;
